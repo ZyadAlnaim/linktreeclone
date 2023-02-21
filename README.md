@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
 ---
 
 <p align="center">
