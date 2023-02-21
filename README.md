@@ -5,7 +5,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ZyadAlnaim/linktreeclone?color=04D361&labelColor=000000">
   
   <a href="https://www.twitter.com/AZy4d/">
-    <img alt="Made by" src="https://img.shields.io/static/v1?label=made%20by&message=Zyad%20Abdullatif&color=04D361&labelColor=000000">
+    <img alt="Edited by" src="https://img.shields.io/static/v1?label=made%20by&message=Zyad%20Abdullatif&color=04D361&labelColor=000000">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ZyadAlnaim/linktreeclone?color=04D361&labelColor=000000">
