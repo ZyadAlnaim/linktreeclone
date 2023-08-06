@@ -20,6 +20,9 @@
 <p align="center">
   <img alt="screenshot" src="screenshot.png">
 </p>
+<p align="center">
+  <img alt="screenshot2" src="screenshot2.png">
+</p>
 
 ---
 
