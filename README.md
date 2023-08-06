@@ -30,5 +30,5 @@ This is an open source project that serves as a free alternative to the Linktree
 
 ---
 
-Edited by [Zyad Abdullatif](https://github.com/ZyadAlnaim/linktreeclone)
+Updated by [Zyad Abdullatif](https://github.com/ZyadAlnaim)
 Originaly made by [Jhonggli](https://github.com/johnggli)
